@@ -1,4 +1,4 @@
-# Olá, terráqueo, tudo certo?! (<em>hello earthman, whats'up?</em>) <img src="/pictures/Mario_Hello_Big.gif" width="30px">
+# Olá, terráqueo, tudo certo?! (<em>hello earthman, whats's up?</em>) <img src="/pictures/Mario_Hello_Big.gif" width="30px">
 <img align="right" alt="PC GIF" src="/pictures/Designer.gif" width="300" />
 
 ## Sobre mim (about me)🙋‍♂️:
