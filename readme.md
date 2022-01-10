@@ -1,7 +1,7 @@
 # Olá, terráqueo, tudo certo?! (<em>hello earthman, whats's up?</em>) <img src="/pictures/Mario_Hello_Big.gif" width="30px">
 <img align="right" alt="PC GIF" src="/pictures/Designer.gif" width="300" />
 
-## Sobre mim (about me)🙋‍♂️:
+## Sobre mim (<em>about me</em>)🙋‍♂️:
 <p>
   <em>Me chamo Guilherme 👨‍💻, mas a maioria me chama de grugo (longa história) ou Matosoli (junção dos meus sobrenomes🤝). 
       A tecnologia🔬  me fascina desde pequeno, e recentemente comecei a estudar mais sobre📚, e assim entrei no mundo da programação, pelo qual sou apaixonado❤️! Sigo buscando mais e mais conhecimento para que eu possa aprimorar minhas habilidades.👽<br>
