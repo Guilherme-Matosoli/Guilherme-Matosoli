@@ -1,19 +1,31 @@
-# Olá, terráqueo, tudo certo?! (<em>hello earthman, whats's up?</em>) <img src="/pictures/Mario_Hello_Big.gif" width="30px">
-<img align="right" alt="PC GIF" src="/pictures/Designer.gif" width="300" />
+# Hy, i'm Guilherme Matos! <img src="https://media.giphy.com/media/3pZipqyo1sqHDfJGtz/giphy.gif" width="50">
 
-## Sobre mim (<em>about me</em>)🙋‍♂️:
-<p>
-  <em>Me chamo Guilherme 👨‍💻, mas a maioria me chama de grugo (longa história) ou Matosoli (junção dos meus sobrenomes🤝). 
-      A tecnologia🔬  me fascina desde pequeno, e recentemente comecei a estudar mais sobre📚, e assim entrei no mundo da programação, pelo qual sou apaixonado❤️! Sigo buscando mais e mais conhecimento para que eu possa aprimorar minhas habilidades.👽<br>
-    ---------------------------------------------------------------------------------------------<br>
-     (<b>My name's Guilherme 👨‍💻, but most call me grugo (long story) or Matosoli <br> (combination of my last names).
-Technology🔬 has fascinated me since I was little, and I recently started <br> to study more about📚, and that's how I entered the world of programming, which I fell in love with! ❤️ <br> I am looking for more and more knowledge in order to improve my skills .👽</b>)
- </em>
-</p>
+**About me:** 
+- 👩‍💻 I'am web developer since 2021
+- ⚛️ NextJS | ReactJS | Typescript | NodeJS
+- 👾 Technology enthusiast
+- 🐾 I'm constantly evolvin 
+- 🤩 I always try to help whoever I can 
 
-## Tecnologias que uso atualmente (<em>technologies I currently use)</em>:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+* * *
+
+**Technologies and tools:**
+
+<img align="left" height="30" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">
+<img align="left" height="30" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">
+<img align="left" height="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">
+<img align="left" height="30" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png">
+<img align="left" height="30" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png">
+<img align="left" height="30" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">
+<img align="left" height="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704">
+<img align="left" height="30" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png">
+
+-
+
+##### And others that expand my approach to better problem solving.
+
+---
+
+How can you reach me: [My website](https://guilhermematos.vercel.app/), [Linkedin](https://www.linkedin.com/in/guilherme-matos-13b6a6229/) or my [GitHub](https://github.com/Guilherme-Matosoli)
+
+### Let's turn your ideas into reality. <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="50">
